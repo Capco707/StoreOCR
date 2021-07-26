@@ -1,4 +1,4 @@
-# PatternRecognition
+# StoreOCR
 ------
 
 #### In view of the characteristics of different picture shooting angles, abundant text types, weak text context connection and lacking of samples in store scene classification task, we propose a multi-stage model based on neural network, which is characterized by text information. 
